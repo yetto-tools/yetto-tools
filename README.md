@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="es">
   <head>
@@ -278,4 +277,4 @@
     <script src="app.js"></script>
   </body>
 </html>
-```
+
