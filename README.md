@@ -12,7 +12,10 @@
 Desarrollador apasionado con experiencia en aplicaciones web, móviles y de escritorio.  
 Me encanta crear soluciones prácticas y escalables.
 
-_Fusce tempor magna mi, non egestas velit ultricies nec. Aenean convallis, risus non condimentum gravida, odio mauris ullamcorper felis, ut venenatis purus ex eu mi. Quisque imperdiet lacinia urna, a placerat sapien._
+_Soy un desarrollador web y backend con más de 5 años de experiencia en proyectos eCommerce, aplicaciones personalizadas y sistemas de integración. Trabajo con tecnologías modernas como React, Zustand, Redux y Shadcn/UI en el frontend, y C# .NET Core, FastAPI y Flask en el backend.  
+Tengo amplia experiencia en la creación de APIs REST, optimización de bases de datos en SQL Server y PostgreSQL, automatización de procesos y despliegues en entornos Linux con Podman y Kubernetes.  
+Mi enfoque está en la calidad del código, la escalabilidad y la eficiencia en el desarrollo de soluciones que aporten valor al negocio._
+
 
 ---
 
