@@ -1,70 +1,132 @@
+# Erick Orlando Rashón González
 
-# Erick Orlando Rashón González  
-**Desarrollador Web & Fullstack**  
+**Desarrollador Full Stack | Backend | Integraciones de Sistemas**
 
-📧 **Email:** ergonzalez209@gmail.com  
-📄 [Descargar CV](#)  
-
----
-
-## Sobre Mí
-
-Desarrollador apasionado con experiencia en aplicaciones web, móviles y de escritorio.  
-Me encanta crear soluciones prácticas y escalables.
-
-_Soy un desarrollador web y backend con más de 5 años de experiencia en proyectos eCommerce, aplicaciones personalizadas y sistemas de integración. Trabajo con tecnologías modernas como React, Zustand, Redux y Shadcn/UI en el frontend, y C# .NET Core, FastAPI y Flask en el backend.  
-Tengo amplia experiencia en la creación de APIs REST, optimización de bases de datos en SQL Server y PostgreSQL, automatización de procesos y despliegues en entornos Linux con Podman y Kubernetes.  
-Mi enfoque está en la calidad del código, la escalabilidad y la eficiencia en el desarrollo de soluciones que aporten valor al negocio._
-
+[Descargar CV](#) · [Enviar correo](mailto:ergonzalez209@gmail.com)
 
 ---
 
-## 🚀 Qué hago
+## Sobre mí
 
-### 🛍️ Ecommerce
-> Desarrollo de soluciones personalizadas para tiendas en línea, integraciones de pagos y automatización de procesos.
+Soy desarrollador web y backend con más de cinco años de experiencia en la creación de aplicaciones empresariales, plataformas de comercio electrónico, soluciones personalizadas e integraciones entre sistemas.
 
-### 📱 Aplicaciones Móviles
-> Desarrollo de apps móviles modernas y optimizadas para Android e iOS.
+En el frontend trabajo principalmente con React, Zustand, Redux y Shadcn/UI. Para el backend utilizo C# con .NET, Python con FastAPI, Flask y Django, así como Node.js con Express.
 
-### 💻 Aplicaciones Desktop
-> Desarrollo de aplicaciones de escritorio robustas y rápidas para Windows.
+También tengo experiencia en el diseño y desarrollo de API REST, automatización de procesos, integración de servicios, optimización de bases de datos y despliegue de aplicaciones en entornos Linux mediante Podman y Kubernetes.
+
+Mi enfoque se centra en desarrollar soluciones mantenibles, escalables y eficientes que aporten valor al negocio.
 
 ---
 
-## 🛠️ Tecnologías
+## Áreas de experiencia
+
+### Comercio electrónico
+
+Desarrollo de soluciones personalizadas para tiendas en línea, integraciones con servicios externos, automatización de procesos y mantenimiento de plataformas de comercio electrónico.
+
+### Aplicaciones web
+
+Construcción de aplicaciones web modernas, interfaces reutilizables, paneles administrativos y sistemas adaptados a las necesidades de cada proyecto.
+
+### Backend e integraciones
+
+Diseño de API REST, implementación de lógica de negocio, integración entre plataformas y desarrollo de servicios para el procesamiento y sincronización de datos.
+
+### Aplicaciones móviles
+
+Desarrollo e integración de aplicaciones móviles orientadas a dispositivos Android e iOS.
+
+### Aplicaciones de escritorio
+
+Desarrollo de aplicaciones de escritorio para Windows, enfocadas en la automatización de tareas y la gestión de procesos empresariales.
+
+### Despliegue y automatización
+
+Configuración y despliegue de aplicaciones en servidores Linux mediante contenedores, Podman y Kubernetes.
+
+---
+
+## Tecnologías
 
 ### Backend
 
-- **Python**  
-  `Flask`, `Django`, `FastAPI`
+* **C# y .NET**
 
-- **NodeJS / ExpressJS**  
-  `API REST`
+  * .NET Framework 4.x
+  * .NET 6
+  * .NET 8
+  * API REST
+  * Aplicaciones y servicios empresariales
 
-- **C#**  
-  `.NET Framework 4.x`, `.NET Core 6`, `.NET Core 8`
+* **Python**
+
+  * FastAPI
+  * Flask
+  * Django
+  * Automatización de procesos
+  * Desarrollo de API
+
+* **Node.js**
+
+  * Express.js
+  * Servicios backend
+  * API REST
 
 ### Frontend
 
-- **React**  
-  `Zustand`, `Redux`, `Shadcn/ui`
+* **React**
 
-### Bases de Datos
+  * Zustand
+  * Redux
+  * Shadcn/UI
+  * Componentes reutilizables
+  * Interfaces administrativas
 
-- **PostgreSQL**  
-  `Stored Procedures`, `Transact SQL`
+### Bases de datos
 
-- **SQL Server**  
-  `Stored Procedures`, `Transact SQL`
+* **SQL Server**
+
+  * Transact-SQL
+  * Procedimientos almacenados
+  * Consultas y optimización
+  * Diseño de bases de datos
+
+* **PostgreSQL**
+
+  * PL/pgSQL
+  * Procedimientos y funciones
+  * Consultas y optimización
+  * Diseño de bases de datos
+
+### Infraestructura y despliegue
+
+* Linux
+* Podman
+* Kubernetes
+* Contenedores
+* Automatización de despliegues
 
 ---
 
-## 📞 Contacto
+## Principales competencias
 
-- [Descargar CV](#)
-- [Enviar email](mailto:ergonzalez209@gmail.com)
+* Desarrollo de aplicaciones web full stack
+* Arquitectura y desarrollo de backend
+* Diseño e implementación de API REST
+* Integración entre sistemas y servicios
+* Automatización de procesos
+* Modelado y optimización de bases de datos
+* Desarrollo de plataformas de comercio electrónico
+* Despliegue de aplicaciones en entornos Linux
+* Creación de soluciones escalables y mantenibles
 
 ---
 
-✨ _Siempre aprendiendo y explorando nuevas tecnologías._  
+## Contacto
+
+* **Correo electrónico:** [ergonzalez209@gmail.com](mailto:ergonzalez209@gmail.com)
+* **Currículum:** [Descargar CV](#)
+
+---
+
+Siempre aprendiendo, mejorando procesos y explorando nuevas tecnologías.
