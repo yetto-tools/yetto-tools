@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Soy desarrollador web y backend con más de cinco años de experiencia en la creación de aplicaciones empresariales, plataformas de comercio electrónico, soluciones personalizadas e integraciones entre sistemas.
+Soy desarrollador web y backend con más de ocho años de experiencia en la creación de aplicaciones empresariales, plataformas de comercio electrónico, soluciones personalizadas e integraciones entre sistemas.
 
 En el frontend trabajo principalmente con React, Zustand, Redux y Shadcn/UI. Para el backend utilizo C# con .NET, Python con FastAPI, Flask y Django, así como Node.js con Express.
 
