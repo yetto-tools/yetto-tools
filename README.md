@@ -91,12 +91,15 @@ Lo que me interesa no es la tecnología del año, sino que el sistema siga funci
 
 <br>
 
-## Actividad
+## Lenguajes que más uso
 
-<p align="center">
-  <img height="150" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=yetto-tools&show_icons=true&hide_border=true&bg_color=00000000&title_color=8A8177&icon_color=8A8177&text_color=A39B90&hide=issues">
-  <img height="150" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetto-tools&layout=compact&hide_border=true&bg_color=00000000&title_color=8A8177&text_color=A39B90&langs_count=8">
-</p>
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2A2A2A?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4A443C?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8A8177?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8A8177?style=flat-square&logo=databricks&logoColor=white)
+
+<a href="https://github.com/yetto-tools?tab=repositories"><img alt="Repositorios" src="https://img.shields.io/badge/Ver_los_57_repositorios-FFE6BC?style=for-the-badge&logo=github&logoColor=000000"></a>
 
 <br>
 
