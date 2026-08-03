@@ -1,132 +1,107 @@
-# Erick Orlando Rashón González
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Erick Rashón González — Desarrollador Full Stack, backend e integraciones" src="assets/banner-light.svg">
+</picture>
 
-**Desarrollador Full Stack | Backend | Integraciones de Sistemas**
-
-[Descargar CV](#) · [Enviar correo](mailto:ergonzalez209@gmail.com)
-
----
-
-## Sobre mí
-
-Soy desarrollador web y backend con más de ocho años de experiencia en la creación de aplicaciones empresariales, plataformas de comercio electrónico, soluciones personalizadas e integraciones entre sistemas.
-
-En el frontend trabajo principalmente con React, Zustand, Redux y Shadcn/UI. Para el backend utilizo C# con .NET, Python con FastAPI, Flask y Django, así como Node.js con Express.
-
-También tengo experiencia en el diseño y desarrollo de API REST, automatización de procesos, integración de servicios, optimización de bases de datos y despliegue de aplicaciones en entornos Linux mediante Podman y Kubernetes.
-
-Mi enfoque se centra en desarrollar soluciones mantenibles, escalables y eficientes que aporten valor al negocio.
+<p align="center">
+  <a href="mailto:ergonzalez209@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Escríbeme-ergonzalez209@gmail.com-0B5FBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="assets/CV.pdf"><img alt="Currículum" src="https://img.shields.io/badge/Currículum-PDF-0F1B2D?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+</p>
 
 ---
 
-## Áreas de experiencia
+## Hola, soy Erick 👋
 
-### Comercio electrónico
+Desarrollador full stack desde Ciudad de Guatemala. Construyo el lado que no se ve: **APIs, integraciones entre sistemas y la capa de datos** que sostiene el producto.
 
-Desarrollo de soluciones personalizadas para tiendas en línea, integraciones con servicios externos, automatización de procesos y mantenimiento de plataformas de comercio electrónico.
+Más de ocho años sobre **.NET y SQL Server**, con los procedimientos almacenados como contrato entre la base y la aplicación. También trabajo con Python para servicios y automatización, y con React cuando el proyecto necesita su propia interfaz administrativa.
 
-### Aplicaciones web
+Lo que me interesa no es la tecnología del año, sino que el sistema siga funcionando cuando yo ya no esté en el proyecto: límites claros, datos consistentes y despliegues repetibles.
 
-Construcción de aplicaciones web modernas, interfaces reutilizables, paneles administrativos y sistemas adaptados a las necesidades de cada proyecto.
+<br>
 
-### Backend e integraciones
+## En qué puedo ayudarte
 
-Diseño de API REST, implementación de lógica de negocio, integración entre plataformas y desarrollo de servicios para el procesamiento y sincronización de datos.
+| | |
+|:--|:--|
+| 🔗 **Backend e integraciones** | APIs REST, lógica de negocio y servicios que sincronizan datos entre plataformas que no fueron pensadas para hablarse. |
+| 🗄️ **Arquitectura de datos** | Modelado relacional, T-SQL y PL/pgSQL, procedimientos almacenados, optimización de consultas y ETL. |
+| 🛒 **Comercio electrónico** | Tiendas a medida, pasarelas de pago, catálogos e integración con servicios externos. |
+| 💻 **Aplicaciones web** | Paneles administrativos e interfaces en React, con componentes reutilizables y estado predecible. |
+| 📱 **Escritorio y móvil** | Herramientas Windows para automatizar procesos internos; aplicaciones Android e iOS. |
+| ☁️ **Despliegue** | Contenedores sobre Linux con Podman y Kubernetes, y automatización del ciclo de publicación. |
 
-### Aplicaciones móviles
+<br>
 
-Desarrollo e integración de aplicaciones móviles orientadas a dispositivos Android e iOS.
+## Stack
 
-### Aplicaciones de escritorio
+**Backend**
 
-Desarrollo de aplicaciones de escritorio para Windows, enfocadas en la automatización de tareas y la gestión de procesos empresariales.
+![C#](https://img.shields.io/badge/C%23-0B5FBF?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-0B5FBF?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0B5FBF?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0B5FBF?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B5FBF?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0B5FBF?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0B5FBF?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0B5FBF?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Despliegue y automatización
+**Bases de datos**
 
-Configuración y despliegue de aplicaciones en servidores Linux mediante contenedores, Podman y Kubernetes.
+![SQL Server](https://img.shields.io/badge/SQL_Server-08447E?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-08447E?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-08447E?style=flat-square&logo=postgresql&logoColor=white)
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-08447E?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Frontend**
 
-## Tecnologías
+![React](https://img.shields.io/badge/React-2B8AE6?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2B8AE6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-2B8AE6?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2B8AE6?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-2B8AE6?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-2B8AE6?style=flat-square&logo=vite&logoColor=white)
 
-### Backend
+**Infraestructura**
 
-* **C# y .NET**
+![Linux](https://img.shields.io/badge/Linux-51617A?style=flat-square&logo=linux&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-51617A?style=flat-square&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-51617A?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-51617A?style=flat-square&logo=kubernetes&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-51617A?style=flat-square&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-51617A?style=flat-square&logo=git&logoColor=white)
 
-  * .NET Framework 4.x
-  * .NET 6
-  * .NET 8
-  * API REST
-  * Aplicaciones y servicios empresariales
+<br>
 
-* **Python**
+## Proyectos destacados
 
-  * FastAPI
-  * Flask
-  * Django
-  * Automatización de procesos
-  * Desarrollo de API
+| Proyecto | Descripción | Stack |
+|:--|:--|:--|
+| **[DigitalForge](https://github.com/yetto-tools/DigitalForge)** | Editor y simulador de lógica digital multiplataforma, con motor de simulación propio para circuitos grandes, biblioteca de unos 40 componentes y extensión mediante definiciones JSON. | `C++` `Qt 6` `CMake` |
+| **[bpmn-js Desktop](https://github.com/yetto-tools/bpmn-js-desktop)** | Modelador de procesos BPMN 2.0 llevado al escritorio, sobre el motor de renderizado de bpmn-io. | `JavaScript` `BPMN 2.0` |
+| **[SocketIO .NET](https://github.com/yetto-tools/SocketIO)** | Capa ligera de comunicación por TCP, UDP y puerto serie para integrar PLCs, sensores, impresoras y lectores de código de barras, con codecs de tramado propios. | `C#` `TCP · UDP · Serie` |
+| **[BareORM](https://github.com/yetto-tools/BareORM)** | ORM para SQL Server con los procedimientos almacenados como ciudadano de primera clase: mapeo, operaciones masivas, migraciones y CLI de esquema. | `.NET 10` `SQL Server` |
+| **[SQLClientService](https://github.com/yetto-tools/SQLClientService)** | Servicio de acceso a datos sobre ADO.NET para consumir SQL Server desde aplicaciones .NET. | `C#` `ADO.NET` |
+| **[AuthApiCore](https://github.com/yetto-tools/AuthApiCore)** | API de autenticación contenedorizada, lista para desplegar. | `.NET` `Docker` |
+| **[Gestión de créditos](https://github.com/yetto-tools/creditos-backend)** | API en .NET para administración de créditos, con su [interfaz administrativa](https://github.com/yetto-tools/creditos-front) en JavaScript. | `.NET` `JavaScript` |
+| **[ETL Universidad](https://github.com/yetto-tools/ETL_UNIVERSIDAD)** | Procesos de extracción, transformación y carga para consolidar información académica. | `PL/SQL` |
+| **[QEMU Manager](https://github.com/yetto-tools/Qemu-Manager-PyQT)** | Gestor de escritorio para crear y administrar máquinas virtuales QEMU. | `Python` `PyQt` |
 
-* **Node.js**
+<br>
 
-  * Express.js
-  * Servicios backend
-  * API REST
+## Actividad
 
-### Frontend
+<p align="center">
+  <img height="150" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=yetto-tools&show_icons=true&hide_border=true&bg_color=00000000&title_color=0B5FBF&icon_color=0B5FBF&text_color=51617A&hide=issues">
+  <img height="150" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetto-tools&layout=compact&hide_border=true&bg_color=00000000&title_color=0B5FBF&text_color=51617A&langs_count=8">
+</p>
 
-* **React**
+<br>
 
-  * Zustand
-  * Redux
-  * Shadcn/UI
-  * Componentes reutilizables
-  * Interfaces administrativas
+## ¿Tienes un proyecto en mente?
 
-### Bases de datos
+Cuéntame qué tienes hoy y qué debería hacer mañana. Respondo con un diagnóstico y una ruta de trabajo, sin compromiso.
 
-* **SQL Server**
-
-  * Transact-SQL
-  * Procedimientos almacenados
-  * Consultas y optimización
-  * Diseño de bases de datos
-
-* **PostgreSQL**
-
-  * PL/pgSQL
-  * Procedimientos y funciones
-  * Consultas y optimización
-  * Diseño de bases de datos
-
-### Infraestructura y despliegue
-
-* Linux
-* Podman
-* Kubernetes
-* Contenedores
-* Automatización de despliegues
-
----
-
-## Principales competencias
-
-* Desarrollo de aplicaciones web full stack
-* Arquitectura y desarrollo de backend
-* Diseño e implementación de API REST
-* Integración entre sistemas y servicios
-* Automatización de procesos
-* Modelado y optimización de bases de datos
-* Desarrollo de plataformas de comercio electrónico
-* Despliegue de aplicaciones en entornos Linux
-* Creación de soluciones escalables y mantenibles
-
----
-
-## Contacto
-
-* **Correo electrónico:** [ergonzalez209@gmail.com](mailto:ergonzalez209@gmail.com)
-* **Currículum:** [Descargar CV](#)
-
----
-
-Siempre aprendiendo, mejorando procesos y explorando nuevas tecnologías.
+**[ergonzalez209@gmail.com](mailto:ergonzalez209@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)** · **[Currículum](assets/CV.pdf)**
