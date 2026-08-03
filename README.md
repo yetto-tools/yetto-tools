@@ -5,9 +5,9 @@
 </picture>
 
 <p align="center">
-  <a href="mailto:ergonzalez209@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Escríbeme-ergonzalez209@gmail.com-0B5FBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="assets/CV.pdf"><img alt="Currículum" src="https://img.shields.io/badge/Currículum-PDF-0F1B2D?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+  <a href="mailto:ergonzalez209@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Escríbeme-ergonzalez209@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/erick-orlando-rash%C3%B3n-gonz%C3%A1lez-3343851a2"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="assets/CV.pdf"><img alt="Currículum" src="https://img.shields.io/badge/Currículum-PDF-FFE6BC?style=for-the-badge&logo=readdotcv&logoColor=000000"></a>
 </p>
 
 ---
@@ -39,39 +39,39 @@ Lo que me interesa no es la tecnología del año, sino que el sistema siga funci
 
 **Backend**
 
-![C#](https://img.shields.io/badge/C%23-0B5FBF?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-0B5FBF?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0B5FBF?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0B5FBF?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B5FBF?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0B5FBF?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-0B5FBF?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0B5FBF?style=flat-square&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **Bases de datos**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-08447E?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-08447E?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-08447E?style=flat-square&logo=postgresql&logoColor=white)
-![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-08447E?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-2A2A2A?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-2A2A2A?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2A2A2A?style=flat-square&logo=postgresql&logoColor=white)
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-2A2A2A?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-2B8AE6?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2B8AE6?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-2B8AE6?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-2B8AE6?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-2B8AE6?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-2B8AE6?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-4A443C?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4A443C?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-4A443C?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-4A443C?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-4A443C?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-4A443C?style=flat-square&logo=vite&logoColor=white)
 
 **Infraestructura**
 
-![Linux](https://img.shields.io/badge/Linux-51617A?style=flat-square&logo=linux&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-51617A?style=flat-square&logo=podman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-51617A?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-51617A?style=flat-square&logo=kubernetes&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-51617A?style=flat-square&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-51617A?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-8A8177?style=flat-square&logo=linux&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-8A8177?style=flat-square&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-8A8177?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-8A8177?style=flat-square&logo=kubernetes&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-8A8177?style=flat-square&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8A8177?style=flat-square&logo=git&logoColor=white)
 
 <br>
 
@@ -94,8 +94,8 @@ Lo que me interesa no es la tecnología del año, sino que el sistema siga funci
 ## Actividad
 
 <p align="center">
-  <img height="150" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=yetto-tools&show_icons=true&hide_border=true&bg_color=00000000&title_color=0B5FBF&icon_color=0B5FBF&text_color=51617A&hide=issues">
-  <img height="150" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetto-tools&layout=compact&hide_border=true&bg_color=00000000&title_color=0B5FBF&text_color=51617A&langs_count=8">
+  <img height="150" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=yetto-tools&show_icons=true&hide_border=true&bg_color=00000000&title_color=8A8177&icon_color=8A8177&text_color=A39B90&hide=issues">
+  <img height="150" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetto-tools&layout=compact&hide_border=true&bg_color=00000000&title_color=8A8177&text_color=A39B90&langs_count=8">
 </p>
 
 <br>
@@ -104,4 +104,4 @@ Lo que me interesa no es la tecnología del año, sino que el sistema siga funci
 
 Cuéntame qué tienes hoy y qué debería hacer mañana. Respondo con un diagnóstico y una ruta de trabajo, sin compromiso.
 
-**[ergonzalez209@gmail.com](mailto:ergonzalez209@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)** · **[Currículum](assets/CV.pdf)**
+**[ergonzalez209@gmail.com](mailto:ergonzalez209@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/erick-orlando-rash%C3%B3n-gonz%C3%A1lez-3343851a2)** · **[Currículum](assets/CV.pdf)**
